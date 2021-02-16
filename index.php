@@ -111,26 +111,28 @@
 
                     <div class="owl-carousel owl-theme">
 
+                       
+
                        <div class="skill">
-                        <span class="chart" data-percent="80">
+                        <span class="chart" data-percent="90">
+                           <span class="percent">90</span>
+                           <canvas height="152" width="152"></canvas>
+                        </span>
+                        <br>
+                        <br>
+                        <h4 class="heading-font">JavaScript</h4>
+                        <p id="para-style-1" class="para-size-2">My all time favourite programming language. Used in all of my Web Projects.</p>
+                       </div>
+
+                       <div class="skill">
+                        <span class="chart" data-percent="90">
                            <span class="percent">80</span>
                            <canvas height="152" width="152"></canvas>
                         </span>
                         <br>
                         <br>
-                        <h4 class="heading-font">PHP</h4>
-                        <p id="para-style-1" class="para-size-2">Used in all of my Web Projects.</p>
-                       </div>
-
-                       <div class="skill">
-                        <span class="chart" data-percent="60">
-                           <span class="percent">60</span>
-                           <canvas height="152" width="152"></canvas>
-                        </span>
-                        <br>
-                        <br>
                         <h4 class="heading-font">MySql</h4>
-                        <p id="para-style-1" class="para-size-2">Used a bit while making PHP projects.</p>
+                        <p id="para-style-1" class="para-size-2">Studied in University as well as used a bit while making PHP projects.</p>
                        </div>
 
                        <div class="skill">
@@ -167,19 +169,19 @@
                        </div>
 
                        <div class="skill">
-                        <span class="chart" data-percent="70">
-                           <span class="percent">70</span>
+                        <span class="chart" data-percent="60">
+                           <span class="percent">60</span>
                            <canvas height="152" width="152"></canvas>
                         </span>
                         <br>
                         <br>
-                        <h4 class="heading-font">JavaScript</h4>
-                        <p id="para-style-1" class="para-size-2">Used in all of my Web Projects.</p>
+                        <h4 class="heading-font">PHP</h4>
+                        <p id="para-style-1" class="para-size-2">Started my Backend career with PHP.</p>
                        </div>
 
                        <div class="skill">
-                        <span class="chart" data-percent="50">
-                           <span class="percent">50</span>
+                        <span class="chart" data-percent="80">
+                           <span class="percent">80</span>
                            <canvas height="152" width="152"></canvas>
                         </span>
                         <br>
@@ -189,13 +191,13 @@
                        </div>
 
                        <div class="skill">
-                        <span class="chart" data-percent="80">
-                           <span class="percent">80</span>
+                        <span class="chart" data-percent="75">
+                           <span class="percent">75</span>
                            <canvas height="152" width="152"></canvas>
                         </span>
                         <br>
                         <br>
-                        <h4 class="heading-font">Bootstrap</h4>
+                        <h4 class="heading-font">NodeJs</h4>
                         <p id="para-style-1" class="para-size-2">Used in all of my Web Projects.</p>
                        </div>
 
@@ -206,30 +208,20 @@
                         </span>
                         <br>
                         <br>
-                        <h4 class="heading-font">C</h4>
+                        <h4 class="heading-font">C/C++</h4>
                         <p id="para-style-1" class="para-size-2">Studied during college days for Problem Solving.</p>
                        </div>
 
+
                        <div class="skill">
-                        <span class="chart" data-percent="80">
-                           <span class="percent">80</span>
+                        <span class="chart" data-percent="50">
+                           <span class="percent">50</span>
                            <canvas height="152" width="152"></canvas>
                         </span>
                         <br>
                         <br>
-                        <h4 class="heading-font">C++</h4>
-                        <p id="para-style-1" class="para-size-2">Studied during college days for Problem Solving.</p>
-                       </div>
-
-                       <div class="skill">
-                        <span class="chart" data-percent="30">
-                           <span class="percent">30</span>
-                           <canvas height="152" width="152"></canvas>
-                        </span>
-                        <br>
-                        <br>
-                        <h4 class="heading-font">Java</h4>
-                        <p id="para-style-1" class="para-size-2">Took offiline classes during my Semester break.</p>
+                        <h4 class="heading-font">Python</h4>
+                        <p id="para-style-1" class="para-size-2">Took summer classes during my Semester break.</p>
                        </div>
 
 
